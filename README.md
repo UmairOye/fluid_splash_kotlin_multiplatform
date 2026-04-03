@@ -6,7 +6,7 @@ This is a Kotlin Multiplatform project showcasing fluid UI animations (such as t
 
 <p align="center">
   <!-- TODO: Upload your demo GIF and replace the src below -->
-  <img src="demo.gif" alt="Fluid Animations Demo" width="300"/>
+  <img src="demo.gif" alt="Fluid Animations Demo"/>
 </p>
 
 ## Project Structure
