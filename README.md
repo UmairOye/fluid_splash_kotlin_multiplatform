@@ -4,10 +4,8 @@ This is a Kotlin Multiplatform project showcasing fluid UI animations (such as t
 
 ## Demo
 
-<p align="center">
-  <!-- TODO: Upload your demo GIF and replace the src below -->
-  <img src="demo.gif" alt="Fluid Animations Demo"/>
-</p>
+![Demo](demo/demo.gif)
+
 
 ## Project Structure
 
