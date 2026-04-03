@@ -4,8 +4,10 @@ This is a Kotlin Multiplatform project showcasing fluid UI animations (such as t
 
 ## Demo
 
-![Demo](demo/demo.gif)
-
+<!-- <p align="center">
+  <img src="demo.gif" alt="Fluid Animations Demo" width="300"/>
+</p> -->
+![Demo](demo.gif)
 
 ## Project Structure
 
